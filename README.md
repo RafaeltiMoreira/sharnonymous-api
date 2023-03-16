@@ -83,6 +83,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](https://github.com/RafaeltiMoreira/sharnonymous-bank/blob/master/LICENSE).
+Este projeto esta sobe a licença [MIT](https://github.com/RafaeltiMoreira/sharnonymous-api/blob/master/LICENSE).
 
 By S#harnonymous
